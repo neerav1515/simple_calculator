@@ -15,3 +15,4 @@ elif b=='/':
    print(a/c)
 else:
    print("fool !! wrong operator")
+//*/
